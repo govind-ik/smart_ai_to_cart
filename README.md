@@ -12,6 +12,6 @@ steps to install
   a..venv\Scripts\activate
 6.install all dependentcies from requirements.txt
   a.uv pip install -r requirements.txt
-  
+7.Add gemini api key and pixalbay api key to env file
 
 
